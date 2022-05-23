@@ -1,2 +1,2 @@
 # endwork
-endwork html course on patika
+endwork html course on patika.dev
